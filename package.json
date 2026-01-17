@@ -1,6 +1,6 @@
 {
   "name": "instagram-bot-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A professional Instagram Bot API with Realtime support, Multi-file Auth State, and Advanced Messaging features.",
   "main": "dist/index.js",
   "scripts": {
@@ -8,6 +8,23 @@
     "start": "node dist/index.js"
   },
   "keywords": [
+    "instagram",
+    "api",
+    "private",
+    "client",
+    "dm",
+    "direct",
+    "messages",
+    "stories",
+    "upload",
+    "mqtt",
+    "realtime",
+    "notifications",
+    "bot",
+    "automation",
+    "bulk-messaging",
+    "session-persistence",
+    "message-management",
     "instagram",
     "bot",
     "api",
